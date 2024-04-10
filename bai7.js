@@ -22,7 +22,7 @@ export default () => {
         <View style={styles.container}> 
         <Text style={styles.label}>What is your name?</Text> 
         <TextInput style={styles.input} 
-            placeholder="Nguyen Ba Toan"  
+            placeholder="- Tran Quang Huy -"  
             placeholderTextColor="rgba(0, 0, 0, 0.5)"  
             onChangeText={(text) => setName(text)}         
             value={name}/>       
