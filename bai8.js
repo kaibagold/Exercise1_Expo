@@ -67,15 +67,15 @@ const PEOPLE = [
     {
         name:{
             title: "Mr",       
-            first: "Nguyen",       
-            last: "Toan", 
+            first: "Tran Quang",       
+            last: "Huy", 
         },
     },
     {
         name:{
             title: "Mr",       
-            first: "Thach",       
-            last: "Thao", 
+            first: "Nguyen Ba",       
+            last: "Toan", 
         },
     },
     {
