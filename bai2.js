@@ -5,7 +5,7 @@ const bai2 = () =>{
     return(
         <View style ={myStyle.container}>
             <Button title='Button 1' onPress={() => 
-                alert("Hello, Nguyen Ba Toan")} />
+                alert("Hello, -Tran Quang Huy -")} />
             <TouchableOpacity  style={myStyle.button} onPress={() => alert("Hello World")}>
                     <Text style={myStyle.text}>Button 2</Text>
             </TouchableOpacity>
